@@ -12,7 +12,7 @@ Proyecto orientado al diseño y desarrollo de una avantura gráfica interactiva 
 - p5.js
 
 ## Características
-- Efectos visuales e interactivos
+- Filtros y efectos visuales e interactivos
 - Integración de contenido multimedia generativo
 
 ## Autor

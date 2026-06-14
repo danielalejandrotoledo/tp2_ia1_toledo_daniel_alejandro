@@ -1,18 +1,19 @@
-Avantura Gráfica Interactiva
-Sketch desarrollado como trabajo práctico 2  para la materia Informática Aplicada 1, en el marco de la Tecnicatura en Artes Multimediales (UNA).
+# Aventura Gráfica Interactiva
 
-Descripción
-Proyecto orientado al diseño y desarrollo de un sitio web que organiza referentes del diseño y las artes multimediales en Argentina. Funciona como un directorio multimedial interactivo que releva la escena multimedia local, integrando contenido generativo y efectos visuales.
+Sketch web desarrollado como el segundo trabajo práctico para la materia Informática Aplicada 1, en el marco de la Tecnicatura en Artes Multimediales (UNA).
 
-Tecnologías utilizadas
-HTML
-CSS
-JavaScript
-p5.js
-Características
-Diseño responsive
-Efectos visuales e interactivos
-Integración de contenido multimedia generativo
+## Descripción
+Proyecto orientado al diseño y desarrollo de una avantura gráfica interactiva web que releva la realidad, la virtualidad y la liminalidad a partir del fallecimiento de mis 3 mascotas dónde cada botón forma parte de una lógica de estados entre pasado presente y futuro. Cada cuadro de texto contiene una frase que describe y evoca el efecto o filtro sobre la imagen.
 
-Autor
+## Tecnologías utilizadas
+- HTML
+- CSS
+- JavaScript
+- p5.js
+
+## Características
+- Efectos visuales e interactivos
+- Integración de contenido multimedia generativo
+
+## Autor
 Daniel Alejandro Toledo
